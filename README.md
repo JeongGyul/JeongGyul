@@ -1,10 +1,9 @@
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:57ffeb,100:00ffb3&height=180&text=JeongGyul%20💻&fontAlign=80&rotate=11&fontAlignY=35&animation=&fontColor=ffffff&fontSize=50" />    
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:57ffeb,100:00ffb3&height=180&text=JeongGyul%20💻&fontAlign=80&rotate=11&fontAlignY=35&animation=&fontColor=ffffff&fontSize=50" />
 
 ## 🎓 Education
-- 선린인터넷고등학교 멀티미디어과(現 콘텐츠디자인과) 졸업 **|** 2019.03. ~ 2022.02.
-- 동양미래대학교 정보통신공학과 1학년 수료 **|** 2022.03. ~ 2022.12.
-- 동양미래대학교 컴퓨터소프트웨어공학과 재학 **|** 2025.03. ~ 현재
+- **선린인터넷고등학교** 멀티미디어과(現 콘텐츠디자인과) 졸업 | 2019.03. ~ 2022.02.
+- **동양미래대학교** 정보통신공학과 1학년 수료 | 2022.03. ~ 2022.12.
+- **동양미래대학교** 컴퓨터소프트웨어공학과 재학 | 2025.03. ~ 현재
 
 ## 🛠️ Tech Stacks
 
@@ -21,10 +20,12 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
 
 ## ✨ Experience
-- University Makeus Challenge (UMC) 9기 Spring Boot 챌린저 **|** 2025.09. ~ 2026.02.
-- University Makeus Challenge (UMC) 10기 동양미래대학교 회장 **|** 2026.02. ~ 현재
-- 동양미래대학교 컴퓨터소프트웨어공학과 학과대표(학회장) **|** 2026.01. ~ 현재
+- **University Makeus Challenge (UMC)** 9기 Spring Boot 챌린저 | 2025.09. ~ 2026.02.
+- **University Makeus Challenge (UMC)** 10기 동양미래대학교 회장 | 2026.02. ~ 현재
+- **동양미래대학교 컴퓨터소프트웨어공학과** 학과대표(학회장) | 2026.01. ~ 현재
 
+## 📊 Stat
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjascd)](https://solved.ac/jjascd)
 <!--
 **JeongGyul/JeongGyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
