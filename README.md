@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:57ffeb,100:00ffb3&height=180&text=JeongGyul%20💻&fontAlign=80&rotate=11&fontAlignY=35&animation=&fontColor=ffffff&fontSize=50" />    
+
 ## Hi there 👋
 My name is Jeonggyu!  
 I'm majoring in ***Computer Software Engineering*** at Dongyang Mirae Univ.
