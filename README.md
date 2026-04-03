@@ -25,7 +25,17 @@
 - **동양미래대학교 컴퓨터소프트웨어공학과** 학과대표(학회장) | 2026.01. ~ 현재
 
 ## 📊 Stat
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjascd)](https://solved.ac/jjascd)
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JeongGyul&show_icons=true" width="475" align="center" />
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="50" height="0" />
+  
+  <a href="https://solved.ac/jjascd">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjascd" alt="Solved.ac Profile" align="center" />
+  </a>
+</p>
+
+
 <!--
 **JeongGyul/JeongGyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
