@@ -21,7 +21,7 @@
 
 ## ✨ Experience
 - **University Makeus Challenge (UMC)** 9기 Spring Boot 챌린저 | 2025.09. ~ 2026.02.
-- **University Makeus Challenge (UMC)** 10기 동양미래대학교 회장 | 2026.02. ~ 현재
+- **University Makeus Challenge (UMC)** 10기 동양미래대학교 회장, Web 챌린저 | 2026.02. ~ 현재
 - **동양미래대학교 컴퓨터소프트웨어공학과** 학과대표(학회장) | 2026.01. ~ 현재
 
 ## 📊 Stat
